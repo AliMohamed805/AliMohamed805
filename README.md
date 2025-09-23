@@ -1,8 +1,19 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGtzcXJsamxxc2JteTkxanNkcHZsdmdtb2hkYXY1Ym41dTM5cGlnNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Lg6vO9CNlQmUna1c5i/giphy.gif"  />
 </div>
+<div id="badges" align="center">
 
-###
+  <!-- Left sparkle gif -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40" />
+
+  <!-- Typing SVG with multiple lines -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&height=70&size=35&duration=4500&pause=700&color=4A90E2&background=FFDBDB00&center=true&width=800&lines=Welcome+to+Ali's+Workspace+👋;Passionate+about+Data+Analytics;Business+Intelligence+Enthusiast;Turning+Data+into+Insights;Always+Learning+and+Growing)](https://git.io/typing-svg)
+
+  <!-- Right sparkle gif -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40" />
+
+</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alimohamed11/" target="_blank">
@@ -18,10 +29,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AliMohamed805.AliMohamed805&"  />
 </div>
-
-###
-
-<h1 align="center">Welcome to Ali's GitHub Workspace 👋</h1>
 
 ###
 
