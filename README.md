@@ -32,11 +32,11 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">
+<p align="center">
 🎓 Cairo University – Computer Science & AI (Class of 2027) <br>
 📊 Focus: Data Analytics, Business Intelligence, and AI Applications <br>
 🎯 Goal: To turn data into actionable insights that solve real-world problems <br>
@@ -44,11 +44,11 @@
 
 ###
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="center">🛠 Languages & Tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="center">🔥 My Stats :</h3>
 
 ###
 
